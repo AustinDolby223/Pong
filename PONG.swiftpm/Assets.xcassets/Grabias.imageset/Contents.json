@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Grabias.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
